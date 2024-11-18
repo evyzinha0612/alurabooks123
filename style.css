@@ -28,6 +28,6 @@ main {
     max-width: 90%;
 }
 
-img {
+::view-transition-image-pair {
     max-width: 90%;
 }
